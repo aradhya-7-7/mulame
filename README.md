@@ -13,7 +13,7 @@ Mulame is a simple, real-time multiplayer game built using vanilla JavaScript an
 
 ## Demo
 
-![Game Screenshot](![screenshot](images/screenshot.png))
+![Game Screenshot](![screenshot](https://github.com/aradhya-7-7/mulame/blob/main/images/screenshot.png))
 
 ## Project Structure
 
